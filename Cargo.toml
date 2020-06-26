@@ -1,0 +1,11 @@
+[package]
+name = "geodate-ht16k33"
+version = "0.1.0"
+authors = ["Vincent Ollivier <v@vinc.cc>"]
+edition = "2018"
+
+[dependencies]
+
+geodate = "0.3.0"
+ht16k33 = "0.4.0"
+linux-embedded-hal = "0.3.0"
